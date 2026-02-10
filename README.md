@@ -7,7 +7,7 @@
 
 **Spring Framework & Vue.js 웹 애플리케이션 개발자**
 
-EMRO에서 3년간 삼성전자, 현대, S-OIL 등 대기업 프로젝트 수행
+삼성전자, 현대, S-OIL 등 대기업 프로젝트 수행
 최근에는 LLM과 RAG 기술을 활용한 AI 프로젝트 학습 중
 
 </div>
