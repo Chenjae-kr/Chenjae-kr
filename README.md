@@ -7,17 +7,6 @@
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Chenjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chenjae-kr&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjae-kr&layout=compact&theme=graywhite&hide_border=true&langs_count=6)
-
-</div>
 
 ## 🛠️ Tech Stack
 
