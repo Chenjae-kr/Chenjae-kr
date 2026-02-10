@@ -1,7 +1,6 @@
 <div align="center">
     
 <img src="https://capsule-render.vercel.app/api?type=soft&color=5881ad&height=120&text=Chenjae's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI!+THIS+IS+CHOI+IN+JAE)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chenjae-kr.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://chen-jae.tistory.com/)
@@ -9,7 +8,7 @@
 </div>
 
 <br/>
-
+<div align="left">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -31,3 +30,4 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+</div>
