@@ -1,5 +1,6 @@
 <div align="center">
-
+    
+<img src="https://capsule-render.vercel.app/api?type=soft&color=5881ad&height=120&text=Chenjae's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI!+THIS+IS+CHOI+IN+JAE)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chenjae-kr.github.io/)
