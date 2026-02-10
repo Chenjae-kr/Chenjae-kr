@@ -5,11 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chenjae-kr.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://chen-jae.tistory.com/)
 
-**Spring Framework & Vue.js 웹 애플리케이션 개발자**
-
-삼성전자, 현대, S-OIL 등 대기업 프로젝트 수행
-최근에는 LLM과 RAG 기술을 활용한 AI 프로젝트 학습 중
-
 </div>
 
 <br/>
@@ -52,8 +47,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenjae-kr&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Chenjae-kr)
+[![Chenjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chenjae-kr)](https://github.com/Chenjae-kr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjae-kr&layout=compact&theme=vue&hide_border=true&langs_count=8)](https://github.com/Chenjae-kr)
 
