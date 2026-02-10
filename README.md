@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 최인재입니다!
+# 👋 안녕하세요, Chenjae입니다!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chenjae-kr.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://chen-jae.tistory.com/)
