@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-![Chenjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chenjae-kr&hide=contribs,prs&show_icons=true&theme=graywhite)
+![Chenjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chenjae&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
 
