@@ -53,9 +53,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenjae-kr&show_icons=true&theme=default&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenjae-kr&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Chenjae-kr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjae-kr&layout=compact&theme=default&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjae-kr&layout=compact&theme=vue&hide_border=true&langs_count=8)](https://github.com/Chenjae-kr)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chenjae-kr&theme=vue&hide_border=true)](https://github.com/Chenjae-kr)
 
 </div>
 
